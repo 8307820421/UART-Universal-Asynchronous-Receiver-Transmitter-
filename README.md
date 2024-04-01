@@ -10,6 +10,7 @@
 Diagram) : 
    
 #1) Solution for First problem:-(Transmitter)
+
 ![Screenshot 2024-01-28 191307](https://github.com/8307820421/UART-Universal-Asynchronous-Receiver-Transmitter-/assets/110840084/f0b841bd-b4c1-4c14-88ff-981b224f2ed2)
 
 #2)
