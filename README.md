@@ -33,6 +33,9 @@ Diagram) :
 
 #8) (solution For firstProblem Using Receiver) :-
 ![Screenshot 2024-02-03 102836](https://github.com/8307820421/UART-Universal-Asynchronous-Receiver-Transmitter-/assets/110840084/69263954-e49e-4366-9ebf-9110a4f32974)
+![Screenshot 2024-02-03 153533](https://github.com/8307820421/UART-Universal-Asynchronous-Receiver-Transmitter-/assets/110840084/b3c15984-e324-4314-8423-470c4214df09)
+![Screenshot 2024-02-03 164113](https://github.com/8307820421/UART-Universal-Asynchronous-Receiver-Transmitter-/assets/110840084/1a22d851-4edc-4d9b-bb69-f2b6924a0677)
+![Screenshot 2024-02-03 190243](https://github.com/8307820421/UART-Universal-Asynchronous-Receiver-Transmitter-/assets/110840084/ba16aad8-2cbc-4b3f-92ca-657d9e90f3af)
 
 
 
