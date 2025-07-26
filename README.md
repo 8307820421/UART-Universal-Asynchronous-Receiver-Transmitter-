@@ -1,12 +1,32 @@
 # UART (Universal-Asynchronous-Receiver-Transmitter)
 #Objective :- The primary objective of UART protocol is used for short distance communication between the input peripherals and output devices.
 
-#Problem Statement : 
-1) First, simply create 8 bit UART protocol and observe on serial monitor.
-2) Second Create UART with FIFO to observe ASCII character on Serial monitor.
-3) Detect the peak to peak response manuaaly using excel or picoscope using UART of 3000 data serailly transmiteed using UART with baudrate 9600 and 115200bps.
+🔍 Problem Statement:
 
-#Solution :-
+✅ Gained hands-on familiarity with UART protocol by developing transmitter and receiver modules.
+
+🧪 Implemented UART-based data transmission to display:
+
+✅Single-digit data (0–9)
+
+✅Double-digit data (00–99)
+
+✅Triple-digit data (000–999) on serial monitors like PuTTY or Arduino Serial Monitor.
+
+🔁 Extended the design using a FIFO buffer to receive and display each pressed value from PC input in real-time.
+
+💡 Solution & Learning Outcome:
+
+📶 Optimized UART communication using UARTLite 166500 IP, AXI Interconnect, and MicroBlaze Processor on Basys 3 FPGA.
+
+🧩 Focused on transmitter-side logic, refining it per feedback and technical lead requirements
+
+🖥️ Displayed real-time data output on serial monitor and analyzed behavior through graphical visualization.
+
+🔤 Learned the relationship between ASCII values and UART encoding, and explored its relevance in long-distance serial communication.
+
+🛰️ Understood how UART is used in sensor systems for data acquisition over extended distances.
+
 Diagram) : 
    
 #1) Solution for First problem:-(Transmitter)
