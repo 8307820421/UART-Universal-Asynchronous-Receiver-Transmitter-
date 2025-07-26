@@ -15,7 +15,11 @@
 
 🔁 Extended the design using a FIFO buffer to receive and display each pressed value from PC input in real-time.
 
+============================================================================================
+
 💡 Solution & Learning Outcome:
+
+-------------------------------------
 
 📶 Optimized UART communication using UARTLite 166500 IP, AXI Interconnect, and MicroBlaze Processor on Basys 3 FPGA.
 
@@ -27,7 +31,25 @@
 
 🛰️ Understood how UART is used in sensor systems for data acquisition over extended distances.
 
-Diagram) : 
+------------------------------------------------------------------------------------------------
+
+• Researched the UART (Universal Asynchronous Receiver Transmitter) protocol and developed a pipelined architecture from child to parent modules for efficient data handling.
+ 
+• Designed a 100MHz UART-compatible clock generator module with a 10ns period, and implemented and optimized asynchronous counter-based baud rate generator while 
+  adhering to UART protocol requirements.
+  
+• Configured and tested UART data transmission for 8-bit values (0–99) at standard baud rates of 9600 and 115200bps, using baud count logic synchronized with the 100MHz system clock.
+
+• Refined and applied FPGA constraints for Basys3 board to support UART communication, and verified functionality using serial monitoring tools such as Tera Term, PuTTY, and Arduino IDE.
+
+• Implemented a FIFO (queue) structure to manage TX and RX data flow and explored Xilinx IP cores like UARTLite 16550 and GPIO interfaces within a custom 32-bit MicroBlaze processor, enabling data I/O
+through Vitis software.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+💡Diagram: 
+
+----------------
    
 #1) Solution for First problem:-(Transmitter)
 
