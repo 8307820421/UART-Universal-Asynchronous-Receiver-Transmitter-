@@ -1,5 +1,6 @@
 # UART (Universal-Asynchronous-Receiver-Transmitter)
 #Objective :- The primary objective of UART protocol is used for short distance communication between the input peripherals and output devices.
+# Resources :- The FPGA DISCOVERY CHANNEL on UART FOR BASYS3 FPGA .
 
 🔍 Problem Statement:
 
